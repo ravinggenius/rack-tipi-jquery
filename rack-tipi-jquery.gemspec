@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Rack::Tipi::JQuery::Version.to_s
   s.authors     = ['Raving Genius']
   s.email       = ['rg+code@ravinggenius.com']
-  s.summary     = 'Gemify jQuery'
+  s.summary     = 'Gemify jQuery for Rack'
   s.license     = 'MIT'
 
   s.rubyforge_project = 'rack-tipi-jquery'
